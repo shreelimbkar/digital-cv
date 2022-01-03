@@ -188,7 +188,9 @@ img {
   bottom: var(--header-height);
 }
 /* Active menu link */
-
+.active-link {
+  color: var(--title-color);
+}
 /*========== HOME ==========*/
 
 /*========== SOCIAL ==========*/
