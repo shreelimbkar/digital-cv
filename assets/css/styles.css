@@ -261,7 +261,9 @@ img {
   margin-right: 0.25rem;
 }
 /*========== PROFILE ==========*/
-
+.profile__description {
+  text-align: center;
+}
 /*========== EDUCATION AND EXPERIENCE ==========*/
 
 /*========== SKILLS AND LANGUAGES ==========*/
